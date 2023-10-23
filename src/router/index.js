@@ -15,7 +15,7 @@ const router = createRouter({
       name: 'retailers',
       component: RetailersView
     },
-    // {
+    // {r
     //   path: '/about',
     //   name: 'about',
     //   // route level code-splitting
