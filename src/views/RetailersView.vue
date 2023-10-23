@@ -4,6 +4,6 @@
 
 <template>
   <main>
-    Inicio
+    Retailers
   </main>
 </template>

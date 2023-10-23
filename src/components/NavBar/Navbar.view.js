@@ -23,7 +23,7 @@ export default {
       this.activeLink.active = false
       link.active = true
 
-      // this.$router.push(link.path)
+      this.$router.push(link.path)
     }
   },
 
