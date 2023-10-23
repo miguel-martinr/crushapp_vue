@@ -5,6 +5,6 @@ import NavBar from '../components/NavBar/NavBar.vue'
 
 <template>
   <main>
-    <NavBar />
+    hola
   </main>
 </template>

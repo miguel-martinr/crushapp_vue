@@ -11,5 +11,5 @@
 
 .nav-link.active {
   color: white;
-  background-color: #794499;
+  background-color: var(--crushapp-color-primary);
 }
