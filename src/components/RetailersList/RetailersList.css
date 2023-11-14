@@ -1,0 +1,23 @@
+.retailer-state {    
+    padding: 2% 5% 3% 5%;
+    border-radius: 10px;
+}
+
+span.retailer-state {
+  background-color: #FFCDCD;
+  color: #E80202;
+  font-weight: 700;
+}
+
+tr.retailer--active span.retailer-state {
+  background-color: #CDFFD5;
+  color: #188429;
+  font-weight: 700;
+}
+
+tr.retailer img {
+  width: 5vh;
+  height: 5vh;
+  margin-right: 0.5rem;
+}
+
